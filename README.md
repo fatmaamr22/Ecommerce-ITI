@@ -96,8 +96,8 @@ The project supports both administrator and user functionalities, providing a co
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/Electro-store-Java-ITI.git
-    cd Electro-store-Java-ITI
+    git clone https://github.com/your-username/Ecommerce-ITI.git
+    cd Ecommerce-ITI
 
     ```
 
@@ -166,4 +166,7 @@ The project supports both administrator and user functionalities, providing a co
 
 ## Contact
 
-For any inquiries or support, please reach out to [mohabmostafa78@gmail.com](mailto:mohabmostafa78@gmail.com).
+For any inquiries or support, please reach out to 
+* [fatmaamro34@gmail.com](mailto:fatmaamro34@gmail.com)
+* [mohabmostafa78@gmail.com](mailto:mohabmostafa78@gmail.com)
+* [sayedhassan800@gmail.com](mailto:sayedhassan800@gmail.com)
